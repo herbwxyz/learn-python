@@ -14,8 +14,6 @@ https://softantenna.com/blog/ieee-top-programming-languages-2022/
 
 ![スクリーンショット 2023-04-15 8.06.44](assets/スクリーンショット 2023-04-15 8.06.44.png)
 
-![img](assets/image11.png)
-
 
 
 
