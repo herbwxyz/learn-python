@@ -151,19 +151,19 @@ Anaconda-Navigator が起動する際に以下のような表示が出た場合�
 
 すると設定ウインドウが開くので、左側のメニューの「Application」を選択したら、右側の「Advanced settings」タブで Language を日本語にし、OKをクリックします。
 
-![Spyder (Python 3.10) 2023_04_15 7_33_16](assets/Spyder (Python 3.10) 2023_04_15 7_33_16.png)
+![Spyder (Python 3.10) 2023_04_15 7_33_16](assets/2023_04_15 7_33_16.png)
 
 
 
 「Spyder を再起動してね」というメッセージが表示されるので、Yesをクリックします。
 
-<img src="assets/Spyder (Python 3.10) 2023_04_15 7_33_23.png" alt="Spyder (Python 3.10) 2023_04_15 7_33_23" style="zoom:50%;" />
+<img src="assets/2023_04_15 7_33_23.png" alt="Spyder (Python 3.10) 2023_04_15 7_33_23" style="zoom: 67%;" />
 
 
 
 ## 画面説明
 
-![Spyder (Python 3.10) 2023_04_15 7_34_06](assets/Spyder (Python 3.10) 2023_04_15 7_34_06.png)
+![Spyder (Python 3.10) 2023_04_15 7_34_06](assets/2023_04_15 7_34_06.png)
 
 画面の左側は「エディタ」と呼び、 Python の命令（コード）を入力します。
 画面右側上段は「変数エクスプローラー」「ヘルプ」「プロット」「ファイル」を選択して表示させることが出来ます。「変数エクスプローラー」を選択しておきましょう。
@@ -179,7 +179,7 @@ Anaconda-Navigator が起動する際に以下のような表示が出た場合�
 以下のようなSpyderをアップデートできますよ！というメッセージが出るかもしれませんが、アップデートで動作が不安定になることもあるので、**アップデートせずに、**Anacondaをインストールしたデフォルトのままにしておく方が安心です。
 
 このメッセージは、チェックボックスのチェックを外し、OKボタンを押して閉じておけば大丈夫です。
-<img src="assets/Spyder (Python 3.10) 2023_04_15 7_33_04-1513505.png" alt="Spyder (Python 3.10) 2023_04_15 7_33_04" style="zoom:50%;" />
+<img src="assets/2023_04_15 7_33_04-1513505.png" alt="Spyder (Python 3.10) 2023_04_15 7_33_04" style="zoom:50%;" />
 
 ![img](assets/update.png)
 
