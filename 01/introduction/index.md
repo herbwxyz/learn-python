@@ -2,23 +2,20 @@
 
 [< 戻る](../)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gITzI64BJQA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## プログラミング言語のランキングを見てみよう！
 
 世の中にはものすごく多くのプログラミング言語が存在しています（英語版 Wikipedia でプログラミング言語の一覧を表示してみると、およそ 700種類！）。Python もたくさんあるプログラミング言語のうちの一つです。
 まずは、どのプログラミング言語が人気があるのかを見てみましょう。
 
-2019年度版人気プログラミング言語ランキング（IEEE Spectrum による発表）
-[https://news.mynavi.jp/article/20190927-900049/](https://www.google.com/url?q=https://news.mynavi.jp/article/20190927-900049/&sa=D&ust=1589040629249000)
+2022年度版人気プログラミング言語ランキング（IEEE Spectrum による発表）
+https://softantenna.com/blog/ieee-top-programming-languages-2022/
 
-
+![スクリーンショット 2023-04-15 8.06.44](assets/スクリーンショット 2023-04-15 8.06.44.png)
 
 ![img](assets/image11.png)
 
-
-![img](assets/image14.png)
-![img](assets/image7.png)
 
 
 
@@ -29,11 +26,9 @@
 
 他にもプログラミング言語の人気度に関するランキングで「TIOBE Index」というものがありますが、こちらのランキングでも近年、 Python は常に上位にランキングされています。
 
-[https://www.tiobe.com/tiobe-index/](https://www.google.com/url?q=https://www.tiobe.com/tiobe-index/&sa=D&ust=1589040629252000)
+https://www.tiobe.com/tiobe-index/
 
-![img](assets/image2.png)
-※ 2020年4月の TIOBE Index
-
+![スクリーンショット 2023-04-15 8.08.00](assets/スクリーンショット 2023-04-15 8.08.00.png)
 
 
 ### POINT
