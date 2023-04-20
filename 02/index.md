@@ -4,7 +4,11 @@
 
 　
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5lxHw94RnfM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+今回は、開発環境の構築と、もう少しプログラミングに踏み込んだ内容です。
+
+今日の内容のうち「やってみよう画像処理１」は、少し進んだ内容になるので、興味のある人はやってみてください。
+
+
 
 ## 今日の内容
 
@@ -19,5 +23,22 @@
 
 - [やってみよう画像処理１](try1/)
 
-- [**課題**](kadai/)
 
+- 課題（準備中）
+
+
+
+## 今日のまとめ
+
+今日の内容を通して、次のポイントが完了したかどうかを確認してみてください。
+
+- 「フローチャート」と「順次処理」を理解する。
+
+
+- PCの設定でファイルの「拡張子」を表示する。
+
+
+- Spyderの設定で「作業ディレクトリ」を割り当てる。
+
+
+- 「Pythonの記述ルール５つ」を覚えておく
