@@ -13,7 +13,7 @@ https://www.anaconda.com/products/distribution
 MacOS 用のうち、Graphical Installer の方をダウンロードします。
 この際、かなりの容量をダウンロードするため、通信料やハードディスクの残り容量には気を付けてください。
 
-![スクリーンショット 2023-04-15 6.27.12](assets/6.27.12-1507820.png)
+![スクリーンショット 2023-04-15 6.27.12](assets/6.27.12.png)
 
 
 
@@ -50,7 +50,7 @@ Dock に Finder のアイコン ![img](assets/image7.png) があると思い間�
 
 
 
-<img src="assets/6.39.11-1508484.png" alt="スクリーンショット 2023-04-15 6.39.11" style="zoom:50%;" />
+<img src="assets/6.41.14.png" alt="スクリーンショット 2023-04-15 6.41.14" style="zoom:50%;" />
 インストール をクリック
 
 
