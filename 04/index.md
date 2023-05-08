@@ -1,16 +1,34 @@
-# 第４回：条件分岐と繰り返し１
+# 第４回：条件分岐
 
 [< 戻る](../)
 
 　
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbBFBKuq-Es?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+前回の講義では「変数」について、様々な観点から理解を進めました。
+
+今回は「条件分岐」について学びます。
+
+
 
 ## 今日の内容
 
-- [条件分岐と繰り返し１](if/)
+- [条件分岐](if/)
 
 - [やってみよう画像処理３](try3/)
 
 - [第４回の課題](kadai/)
+
+
+
+## 今日のまとめ
+
+今日の内容を通して、次のポイントが理解できたか確認してみてください。
+
+- `if`, `else`, `elif` 文の書き方
+
+- 条件分岐をフローチャートに描く方法
+
+- 「字下げ」の意味。「if分のブロック内」や「if文の外」の意味が理解出来たでしょうか？
+
+- 「関係演算子」の意味と使い方
 
