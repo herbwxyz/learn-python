@@ -2,11 +2,21 @@
 
 [< 戻る](../)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iibi6MYqP6w?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+　
+
+今回は、練習問題を通してこれまでの内容を復習します。
+
+練習問題を７個用意しました。
+問８は今回の課題とします。
+
+練習問題で分からなくなったときは、まず、各回のテキストの「今日のまとめ」のキーワードを見て、
+その回のテキストで作成したプログラムを見直しながら、進めてみてください。
+
+
 
 ## 今日の内容
 
 - [練習問題](renshu/)
 
-- [解答編](05ans/)
+  
 
