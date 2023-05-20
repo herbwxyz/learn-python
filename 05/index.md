@@ -19,5 +19,7 @@
 
 - [練習問題](renshu/)
 
-  
+- [解答編](05ans/)
+
+- [第５回の課題（練習問題問８）](https://herbwxyz.github.io/learn-python/05/renshu/#!index.md#問題８：お天気判定)
 
