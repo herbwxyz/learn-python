@@ -50,7 +50,7 @@ Dock に Finder のアイコン ![img](assets/image7.png) があると思い間�
 
 
 
-<img src="assets/スクリーンショット 2023-05-27 8.52.38.png" alt="スクリーンショット 2023-05-27 8.52.38" style="zoom:50%;" />
+<img src="assets/8.52.38.png" alt="8.52.38" style="zoom:50%;" />
 インストール先の選択が表示された場合は、自分専用にインストール
 
 
