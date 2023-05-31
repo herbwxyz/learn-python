@@ -1,16 +1,33 @@
-# 第７回：条件分岐と繰り返し３
+# 第７回：繰り返し２
 
 [< 戻る](../)
 
 　
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8xi1t0Q0vY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+今回のテーマも、前回に引き続き「繰り返し」です。
+
+今回は、繰り返しを途中で中断する「break」の使い方を紹介します。
+
+また、繰り返しを実現する方法はfor文だけではありません。
+今回はそのもう一つの書き方「while」についても紹介します。
+
+
 
 ## 今日の内容
 
-- [条件分岐と繰り返し３](for/)
+- [繰り返し２](for/)
 
 - [やってみよう画像処理５](try5/)
 
-- [第７回の課題](kadai/)
+- 第７回の課題（準備中）
+
+
+
+## 今日のまとめ
+
+今日の内容を通して、次のポイントが理解できたか確認してみてください。
+
+- `break` の使い方と、breakをフローチャートで描く方法
+- `while` 文の書き方。while文に必要となる「条件式」の書き方が理解できたでしょうか？
+- 「字下げ」は今回も重要です。「while文のブロック内」や「while文の外」の意味が理解出来たでしょうか？
 
