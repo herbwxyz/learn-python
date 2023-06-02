@@ -80,7 +80,7 @@ CONDA_PREFIX=/Applications/Anaconda3
 
 
 
-## 3. `anaconda-clean`をインストールする
+## 3. anaconda-cleanをインストールする
 
 「`anaconda-clean`」という、Anacondaの設定ファイルを削除するツールをインストールします。
 
