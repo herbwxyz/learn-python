@@ -25,7 +25,8 @@
 
 Anaconda をインストールするためのファイル（インストーラと言います）をダウンロードします。
 ↓ こちらのページを開きます。
-**https://www.anaconda.com/products/individual**
+
+https://www.anaconda.com/download
 
 下の方まで画面をスクロールするとダウンロードボタンが並んでいます。Windows 用 のGraphical Installerをダウンロードします。
 この際、かなりの容量をダウンロードするため、通信料やハードディスクの残り容量には気を付けてください。
