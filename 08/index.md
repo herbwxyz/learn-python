@@ -2,10 +2,33 @@
 
 [< 戻る](../)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbs4Jh9Odt8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+いよいよ、プログラミングの大詰めと言える「関数」が登場します。
+この授業で習得してほしい５つの項目「変数」「順次処理」「条件分岐」「繰り返し」「関数」のうち、最後のひとつです。
+
+今回は、やってみよう画像処理は一旦休みにします。
+「関数」の概念を理解することに集中して、進めてみてください。
+
+
 
 ## 今日の内容
 
 - [関数](kansu/)
-- [第８回の課題](kadai/)
+
+- 第８回の課題（準備中）
+
+
+
+## 今日のまとめ
+
+今日の内容を通して、次のポイントが理解できたか確認してください。
+
+- 関数を定義する方法と、関数を呼び出す方法
+
+- 「引数」を受け取る関数の書き方、その関数に引数を渡して呼び出す方法
+
+- 「戻り値」を返す関数の書き方、その戻り値を変数に受け取る方法
+
+- 関数をフローチャートで描く方法
 
