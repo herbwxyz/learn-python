@@ -4,12 +4,18 @@
 
 　
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7hcczTHwalg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+前回までで、プログラミングの基本となる５つ「変数」「順次処理」「条件分岐」「繰り返し」「関数」を学習しました。
+
+今回は、今までの復習をかねた練習問題を用意しました。
+
+講義時間の後半に課題を掲載するので、まずは「練習問題」を解いてみてください。
+
+来週、解答編を掲載する予定です。
+
+
 
 ## 今日の内容
 
 - [練習問題](rensyu/)
 
-- [解答編](09_ans/)
-- [第９回の課題](kadai/)
-
+  
