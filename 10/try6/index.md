@@ -114,13 +114,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0YeUZp3b24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-これらのフラクタル図形は、全て「Beanstalk」というソフトウェアを用いて描いています。
-
-**Beanstalk**: [https://sizima.com/beanstalk/jp/](https://sizima.com/beanstalk/jp)
-
-このソフトウェアは、金曜日のプログラミング入門の講義を担当している中山先生が開発中のものです。
-現在はまだベータ版（未完成版）のようですが、興味がある方は、ぜひ触ってみてください。
-※ある程度速度の出るグラフィックボードを搭載したWindowsPCでのみ動作します。
+これらのフラクタル図形は、武蔵美で別の曜日のプログラミング入門の講義を担当している中山弘敬先生が開発中の「Beanstalk」というソフトウェアを用いて描かれています。
 
 ![img](assets/image38.png)
 
