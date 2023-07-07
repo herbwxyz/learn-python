@@ -1,7 +1,5 @@
 # PyInstaller のインストール（Mac）
 
-[< 戻る](../#!index.md#PyInstaller)
-
 
 
 ## インストールはSpyderのコンソールから！
@@ -31,5 +29,3 @@ conda install pyinstaller
 その後、テキストの先ほどのページの続きを読み進めてみてください。
 
 　
-
-[< 戻る](../#!index.md#PyInstaller)
